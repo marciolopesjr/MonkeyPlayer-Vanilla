@@ -12,7 +12,7 @@ const image = document.getElementById('image'),
   timeProgress = document.getElementById('time-progress'),
   totalTrackTime = document.getElementById('total-track-time');
 
-const songs = ['Shy Away', 'test'];
+const songs = ['Shy Away',];
 
 let songIndex = 0;
 
